@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Komal Pathare</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg" />
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/736x/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalpathare8755&label=Profile%20views&color=0e75b6&style=flat" alt="komalpathare8755" /> </p>
 
